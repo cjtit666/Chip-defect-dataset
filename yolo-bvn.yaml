@@ -1,0 +1,15 @@
+path: 4000datasets
+train: images/train
+val: images/val
+test:
+
+
+# Classes
+names:
+  0: DIE_BROKEN
+  1: DIE_CRACK
+  2: DIE_INK
+  3: EdgeCornerBroken
+  4: EdgeCornerBrokenMinor
+  5: Pollution
+
